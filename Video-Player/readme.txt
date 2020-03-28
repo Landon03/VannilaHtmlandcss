@@ -1,1 +1,1 @@
-make sure in the html you change thr src to your username
+make sure in the html you change the src to your username
